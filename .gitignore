@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+DPCTeste/DPCDatabase.db
+*.user
+DPCTeste.Data/bin/
+DPCTeste.Data/obj/
+DPCTeste.Domain.Test/bin/
+DPCTeste.Domain.Test/obj/
+DPCTeste.Domain/bin/
+DPCTeste.Domain/obj/
+DPCTeste/bin/
+DPCTeste/obj/
